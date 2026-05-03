@@ -1,6 +1,6 @@
 # Using Skills
 
-Pi supports skills to extend its functionality.
+Pi supports skills to extend its functionality. The `git-wiki` skill definition is included in this repository under `skills/git-wiki/`.
 
 To create a personal wiki using the `git-wiki` skill:
 1.  Navigate to your repository root.
